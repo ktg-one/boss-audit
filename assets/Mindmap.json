@@ -1,160 +1,192 @@
 {
-  "name": "BOSS Operational Health Audit",
+  "name": "Digital Health Audit: Noelles Animal Care",
   "children": [
     {
-      "name": "Practice Integrity Calibration",
+      "name": "Critical Blind Spots",
       "children": [
         {
-          "name": "Score: 81/100 (Operationally Resilient)"
-        },
-        {
-          "name": "WA Relationship & Handshake Standard"
-        },
-        {
-          "name": "Digital Presence Baseline Weighting (10%)"
-        },
-        {
-          "name": "Verified Advisory Authority"
-        }
-      ]
-    },
-    {
-      "name": "Real-World Vulnerabilities",
-      "children": [
-        {
-          "name": "Regulatory & Merchant Risks",
+          "name": "Primary Domain Offline",
           "children": [
             {
-              "name": "TGA Therapeutic Claim Exposure"
+              "name": "Revenue Leakage (~$38,250 AUD)"
             },
             {
-              "name": "ACCC Pricing Transparency Issues"
-            },
-            {
-              "name": "Merchant Gateway Cashflow Freezes"
+              "name": "Urgency: Red"
             }
           ]
         },
         {
-          "name": "Directory Misrepresentation",
+          "name": "Geographic Dislocation",
           "children": [
             {
-              "name": "Legacy Domain Fragmentation"
+              "name": "South Perth vs Kingsley Mismatch"
             },
             {
-              "name": "Inaccurate Scraper Trading Hours"
-            },
-            {
-              "name": "Orphaned Digital Citations"
+              "name": "Urgency: Yellow"
             }
           ]
         },
         {
-          "name": "Governance & Pathway Gaps",
+          "name": "Third-Party Ad Arbitrage",
           "children": [
             {
-              "name": "Missing Privacy Policy (APP Compliance)"
+              "name": "Competitor Ads on Directory"
             },
             {
-              "name": "Absent Web Intake Form"
-            },
-            {
-              "name": "Unfinished Portal Placeholders"
+              "name": "Urgency: Yellow"
             }
           ]
         }
       ]
     },
     {
-      "name": "Core Operational Capital",
+      "name": "Audit Dimension Scores",
       "children": [
         {
-          "name": "Practitioner Authority",
-          "children": [
-            {
-              "name": "Liz Haselgrove's 20-Year Lineage"
-            },
-            {
-              "name": "Authorised Squarespace Trainer Status"
-            }
-          ]
+          "name": "Overall Score: 42/100"
         },
         {
-          "name": "Institutional Governance",
-          "children": [
-            {
-              "name": "Chartered Accountant Board Oversight"
-            },
-            {
-              "name": "AICD Graduate Secretarial Leadership"
-            }
-          ]
+          "name": "Customer Experience: 44/100"
         },
         {
-          "name": "Community & Referral Equity",
-          "children": [
-            {
-              "name": "2,000+ Businesses Assisted"
-            },
-            {
-              "name": "99% Client Recommendation Rating"
-            },
-            {
-              "name": "SBDC & BUSY Group Partnerships"
-            }
-          ]
+          "name": "Data Foundations: 35/100"
         },
         {
-          "name": "Consultative Commerce Model"
+          "name": "Infrastructure Cohesion: 38/100"
         },
         {
-          "name": "Lean Squarespace Architecture"
+          "name": "Content Strategy: 52/100"
+        },
+        {
+          "name": "Technical Setup: 41/100"
         }
       ]
     },
     {
-      "name": "7-Day Remediation Plan",
+      "name": "Competitive Analysis",
       "children": [
         {
-          "name": "Day 1: De-risk Advertising & Merchant Terms"
+          "name": "Core Strengths",
+          "children": [
+            {
+              "name": "Specialized Clinical Niche"
+            },
+            {
+              "name": "Reactive/Trauma Expertise"
+            },
+            {
+              "name": "Educational Continuity"
+            }
+          ]
         },
         {
-          "name": "Day 2: Deploy WA-Calibrated Privacy Policy"
+          "name": "Market Deficits",
+          "children": [
+            {
+              "name": "Invisible Search Presence"
+            },
+            {
+              "name": "Opaque Pricing/Fees"
+            },
+            {
+              "name": "Fragile Booking Workflow"
+            }
+          ]
         },
         {
-          "name": "Day 3: Domain Redirection & Directory Claims"
+          "name": "Main Competitor: Allpet House Sitters"
         },
         {
-          "name": "Day 4: Wellness Directory Compliance Audit"
-        },
-        {
-          "name": "Day 5: Repair Contact & Intake Pathways"
-        },
-        {
-          "name": "Day 6: Resolve Public Placeholder Layouts"
-        },
-        {
-          "name": "Day 7: Administrative AI Integration"
+          "name": "Main Competitor: Mad Paws Network"
         }
       ]
     },
     {
-      "name": "Perth Grounded Scorecard",
+      "name": "Strategic Opportunities",
       "children": [
         {
-          "name": "Authority & Referral Equity: 92/100"
+          "name": "Restore Primary Domain"
         },
         {
-          "name": "Regulatory & Cashflow Protection: 72/100"
+          "name": "Deploy Triage Funnel"
         },
         {
-          "name": "Directory & Citation Hygiene: 68/100"
+          "name": "Google SAB Architecture"
         },
         {
-          "name": "Direct Inquiry Pathways: 80/100"
+          "name": "Clinical Video Syndication"
         },
         {
-          "name": "Digital Presence & Tech Stack: 85/100"
+          "name": "Behavioral Lead Magnet"
+        },
+        {
+          "name": "Veterinary Referral Network"
+        }
+      ]
+    },
+    {
+      "name": "Risk Radar (12 Months)",
+      "children": [
+        {
+          "name": "Q1: Brand Asset Decay"
+        },
+        {
+          "name": "Q2: Aggregator Domination"
+        },
+        {
+          "name": "Q3: Platform Policy Changes"
+        },
+        {
+          "name": "Q4: Animal Handling Liability"
+        }
+      ]
+    },
+    {
+      "name": "Implementation Roadmap",
+      "children": [
+        {
+          "name": "Phase 1: Infrastructure",
+          "children": [
+            {
+              "name": "DNS Restoration"
+            },
+            {
+              "name": "Unified Landing Page"
+            }
+          ]
+        },
+        {
+          "name": "Phase 2: Conversion",
+          "children": [
+            {
+              "name": "Interactive Intake Form"
+            },
+            {
+              "name": "Lead Capture Automation"
+            }
+          ]
+        },
+        {
+          "name": "Phase 3: Reputation",
+          "children": [
+            {
+              "name": "Google Business Profile"
+            },
+            {
+              "name": "Review Acquisition"
+            }
+          ]
+        },
+        {
+          "name": "Phase 4: Content",
+          "children": [
+            {
+              "name": "Video Case Studies"
+            },
+            {
+              "name": "Vet Referral Pipelines"
+            }
+          ]
         }
       ]
     }

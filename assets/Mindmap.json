@@ -1,0 +1,162 @@
+{
+  "name": "BOSS Operational Health Audit",
+  "children": [
+    {
+      "name": "Practice Integrity Calibration",
+      "children": [
+        {
+          "name": "Score: 81/100 (Operationally Resilient)"
+        },
+        {
+          "name": "WA Relationship & Handshake Standard"
+        },
+        {
+          "name": "Digital Presence Baseline Weighting (10%)"
+        },
+        {
+          "name": "Verified Advisory Authority"
+        }
+      ]
+    },
+    {
+      "name": "Real-World Vulnerabilities",
+      "children": [
+        {
+          "name": "Regulatory & Merchant Risks",
+          "children": [
+            {
+              "name": "TGA Therapeutic Claim Exposure"
+            },
+            {
+              "name": "ACCC Pricing Transparency Issues"
+            },
+            {
+              "name": "Merchant Gateway Cashflow Freezes"
+            }
+          ]
+        },
+        {
+          "name": "Directory Misrepresentation",
+          "children": [
+            {
+              "name": "Legacy Domain Fragmentation"
+            },
+            {
+              "name": "Inaccurate Scraper Trading Hours"
+            },
+            {
+              "name": "Orphaned Digital Citations"
+            }
+          ]
+        },
+        {
+          "name": "Governance & Pathway Gaps",
+          "children": [
+            {
+              "name": "Missing Privacy Policy (APP Compliance)"
+            },
+            {
+              "name": "Absent Web Intake Form"
+            },
+            {
+              "name": "Unfinished Portal Placeholders"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Core Operational Capital",
+      "children": [
+        {
+          "name": "Practitioner Authority",
+          "children": [
+            {
+              "name": "Liz Haselgrove's 20-Year Lineage"
+            },
+            {
+              "name": "Authorised Squarespace Trainer Status"
+            }
+          ]
+        },
+        {
+          "name": "Institutional Governance",
+          "children": [
+            {
+              "name": "Chartered Accountant Board Oversight"
+            },
+            {
+              "name": "AICD Graduate Secretarial Leadership"
+            }
+          ]
+        },
+        {
+          "name": "Community & Referral Equity",
+          "children": [
+            {
+              "name": "2,000+ Businesses Assisted"
+            },
+            {
+              "name": "99% Client Recommendation Rating"
+            },
+            {
+              "name": "SBDC & BUSY Group Partnerships"
+            }
+          ]
+        },
+        {
+          "name": "Consultative Commerce Model"
+        },
+        {
+          "name": "Lean Squarespace Architecture"
+        }
+      ]
+    },
+    {
+      "name": "7-Day Remediation Plan",
+      "children": [
+        {
+          "name": "Day 1: De-risk Advertising & Merchant Terms"
+        },
+        {
+          "name": "Day 2: Deploy WA-Calibrated Privacy Policy"
+        },
+        {
+          "name": "Day 3: Domain Redirection & Directory Claims"
+        },
+        {
+          "name": "Day 4: Wellness Directory Compliance Audit"
+        },
+        {
+          "name": "Day 5: Repair Contact & Intake Pathways"
+        },
+        {
+          "name": "Day 6: Resolve Public Placeholder Layouts"
+        },
+        {
+          "name": "Day 7: Administrative AI Integration"
+        }
+      ]
+    },
+    {
+      "name": "Perth Grounded Scorecard",
+      "children": [
+        {
+          "name": "Authority & Referral Equity: 92/100"
+        },
+        {
+          "name": "Regulatory & Cashflow Protection: 72/100"
+        },
+        {
+          "name": "Directory & Citation Hygiene: 68/100"
+        },
+        {
+          "name": "Direct Inquiry Pathways: 80/100"
+        },
+        {
+          "name": "Digital Presence & Tech Stack: 85/100"
+        }
+      ]
+    }
+  ]
+}
